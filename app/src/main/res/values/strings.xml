@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Twitter Searches</string>
-	<string name="searchURL">http://m.flckr.com/#/search/</string>
+	<string name="app_name">XFM Search</string>
+	<string name="searchURL">http://</string>
 	<string name="tagPrompt">Tag your query</string>
 	<string name="queryPrompt">Enter Twitter search query here</string>
 	<string name="taggedSearches">Tagged Searches</string>
